@@ -49,7 +49,7 @@ enum {
 #define USND_RANGE 5            //! distancia máxima de detección, en cm
 #define USND_PULSE_DURATION 1   //! duración, en ms, de un pulso de ultrasonidos
 
-#define BUZZFREQ_USND 384       //! frecuencia para la detección de ultrasonidos
+#define BUZZFREQ_USND 500       //! frecuencia para la detección de ultrasonidos
 #define BUZZFREQ_IR 3000        //! frecuencia del zumbador para la detección IR
 
 
